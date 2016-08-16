@@ -5,7 +5,7 @@
 
 4 ftp install : sudo apt-get install vsftpd
 
-## get wp cmd
+## get wp cmd line
 # curl -L https://raw.github.com/wp-cli/builds/gh-pages/phar/wp-cli.phar > wp-cli.phar
 # mv wp-cli.phar /usr/bin/wp (DIR  in the PATH) and chmod +x of it
 
